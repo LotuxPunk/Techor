@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=true": {
+      "model": "techor:block/cut_cast_iron_lamp"
+    },
+    "lit=false": {
+      "model": "techor:block/cut_cast_iron_lamp_unlit"
+    }
+  }
+}
